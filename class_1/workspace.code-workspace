@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\liceum4"
+		},
+		{
+			"path": "..\\..\\My_JS"
+		},
+		{
+			"path": "..\\..\\School\\11Б\\WEB"
+		},
+		{
+			"path": "..\\..\\Projects\\Mogo"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\xampp\\htdocs\\project"
+		},
+		{
+			"path": "..\\..\\School\\11Б\\Project_Site"
+		},
+		{
+			"path": "..\\..\\app"
+		},
+		{
+			"path": "..\\..\\React\\First_project\\my-app"
+		},
+		{
+			"path": "C:\\Users\\Vitaliy\\Downloads\\Plane"
+		},
+		{
+			"path": "..\\..\\Test\\Test Web"
+		},
+		{
+			"path": "..\\..\\React\\test_project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Plane",
+		"editor.unicodeHighlight.ambiguousCharacters": false,
+		"git.ignoreLimitWarning": true
+	}
+}
